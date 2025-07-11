@@ -1,5 +1,5 @@
-# Test/Course Repo
+# Notebooks and code for the Applied Data Science Capstone course 
 
-## Editing the file
+In this series of notebooks, I demonstrate many of the techniques taught in the IBM Data Science Certificate courses (https://www.coursera.org/professional-certificates/ibm-data-science).  These are mostly techniques I have applied professionally in other settings (see my published work in the field of aquatic ecology), but my goal was to survey the topic and insure I had a good grasp of the techniques, jargon and approach used by data science experts who work in other fields of study.
 
-Blah blah blah.
+In this capstone course, we were guided through an analysis of SpaceX launch and booster recovery data.  The data was provided by the course instructors, and appears to have some gaps and inconsistencies.  Rather than independently pull in data from outside the course and possibly confuse the process of grading the assignment, I opted to simply use the datasets as they were provided.  As a result, I do not think this analysis should be considered conclusive or definitive.  I would need to do a more thorough data inventory and audit before I would be confident in the results of this analysis.
